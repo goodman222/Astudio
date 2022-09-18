@@ -1,0 +1,29 @@
+.mail-container {
+  width: 1272px;
+  height: 387px;
+  display: flex;
+  margin: 92px auto 0;
+  flex-direction: row;
+  background: url(../jpg/mailBG.png);
+}
+
+.mail-text-container {
+  margin-top:154px;
+  margin-left: 130px;
+}
+
+.mail-content-text {
+  margin-top: 17px;
+}
+
+.mail-input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 479px;
+  height: 80px;
+  background-color: #FFFFFF;
+  border-radius: 60px;
+  margin-left: 50px;
+  margin-top: 162px;
+}

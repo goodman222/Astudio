@@ -1,0 +1,97 @@
+.nav-menu {
+  width: 1200px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  /* border: 2px red solid; */
+  align-items: center;
+}
+
+.nav-menu-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content:center;
+}
+
+
+.nav-buttons_container {
+  width: 645px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main-page-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.main-page {
+  width: 1206px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.main-text-content {
+  width: 471px;
+  margin-top: 39px;
+}
+
+.main-page-picture {
+  width: 696px;
+  height: 608px;
+}
+
+.main-page-content {
+  margin-top: 105px;
+  padding: 0;
+}
+
+.main-page-text {
+  margin: 0;
+}
+
+
+.contact-button {
+margin-top: 34px;
+}
+/* Рамки */
+
+/* .main-page-container {
+	border: 2px solid green;
+}
+
+.main-page {
+	border: 2px solid blue;
+}
+
+.main-page-content {
+	border: 2px solid yellow;
+} */
+.clients-container {
+  width: 1200px;
+  height: 124px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.clients-text-content {
+  width: 336px;
+  margin-top: 17px;
+}
+
+.clients-logo-container {
+  margin-top: 54px;
+}

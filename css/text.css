@@ -1,0 +1,87 @@
+@font-face {
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+	src: url('../fonts/averta_demo_pe_cutted_demo_regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/averta_demo_pe_cutted_demo_regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/averta_demo_pe_cutted_demo_regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/averta_demo_pe_cutted_demo_regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/averta_demo_pe_cutted_demo_regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/averta_demo_pe_cutted_demo_regular.svg#averta_demo_pe_cutted_demo_regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+.logo a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Averta Demo PE Cutted Demo Regular';
+  font-size: 30px;
+}
+
+.main-text, .main-text a {
+  font-family: 'Averta Demo PE Cutted Demo Regular';
+  font-size: 18px;
+	text-decoration: none;
+	color: black;
+}
+.main-text-header {
+  font-size: 40px;
+  font-family: 'Averta Demo PE Cutted Demo Regular';
+}
+.main-text-content, .third-text, .feedback-content-text {
+  font-size: 16px;
+  font-family: 'Averta Demo PE Cutted Demo Regular';
+  color: #565656;
+}
+
+.header {
+	font-size: 40px;
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+}
+
+.clients-text-content {
+	font-size: 18px;
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+}
+
+.block-header, .feedback-content-header {
+	font-size: 24px;
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+	font-weight: bold;
+}
+
+.feedback-header-sub, .mail-content-text {
+	font-size: 18px;
+  font-family: 'Averta Demo PE Cutted Demo Regular';
+  color: #757575;
+}
+
+.blue-button {
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+}
+
+.input-mail {
+	font-size: 16px;
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+}
+
+.footer-header {
+	font-size: 20px;
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+}
+
+.footer-text {
+	font-size: 14px;
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+	text-decoration: none;
+	color: #000000;
+}
+
+.footer-1-text {
+	font-size: 14px;
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+	color: #565656;
+}
+
+.copyright {
+	font-family: 'Averta Demo PE Cutted Demo Regular';
+	color: #A4A4A4;
+	font-size: 14px;
+}

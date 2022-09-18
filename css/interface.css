@@ -1,0 +1,35 @@
+.blue-button {
+  background-color: #2639ED;
+  border: none;
+  color: #FFFFFF;
+  border-radius: 60px;
+}
+
+.blue-button:active {
+  background-color: #495af5;
+}
+
+.button-1 {
+  width: 215px;
+  height: 65px;
+  font-size: 20px;
+}
+
+.button-2 {
+  width: 188px;
+  height: 60px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.input-mail {
+  width: 200px;
+  height: 20px;
+  margin-left: 34px;
+  border: none;
+}
+
+.input-mail:focus {
+  border: none;
+  outline: none;
+}
